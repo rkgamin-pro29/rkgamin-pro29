@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+Rakshit+here!" alt="Typing SVG" />
+  <img alt="Mario Wave" src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="70">
+</h1>
 <!--
 **rkgamin-pro29/rkgamin-pro29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
